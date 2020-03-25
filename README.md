@@ -1,27 +1,21 @@
 # ruta-logo
 RUTA logo images: updates and outputs
 
-## No example
-1. [ Do a variation by adding the right root and city text similar to the original files, if others don't work.]
+## In All Files
+1. I like the all caps for BAY AREA, to avoid the drop on the lower case y. So let’s just go with that. 
 
-## ruta_logo_city_caps
-2. Do a variation on the city text to use title case.
+## In All Files
+2. I like the gradient on the tree, so let’s go with that. 
 
-## ruta_logo_city
-3. Do a variation without the elongated right root, and with a smaller city text string.
+## ruta_logo_ BAY_AREA_caps_t_gradient_connect_lc
+3. Let’s keep all lower case and Title case on connect | resist | mobilize. I like the lower case better, but want to check with others. 
 
-## ruta_logo_city_lc_c-r-m
-4. Do a variation with the "connect | resist | mobilize" in lower case.
+## ruta_logo_ BAY_AREA_caps_t_gradient_connect_title
+4. So for purposes of review, could you make versions with BAY AREA in caps and the gradient and then the two version of connect, etc? 
 
-# ruta_logo_city_caps_c-r-m
-5. Do a variation with the "connect | resist | mobilize" in all caps, but smaller.
+## ruta_logo_ BAY_AREA_title_t_gradient_connect_title_oval_flat_bottom and ruta_logo_ BAY_AREA_caps_t_gradient_connect_lc_oval_flat_bottom
+5. On the border, thing, the white space below obviously doesn’t work. Could it be a semi-oval or something, with a flat bottom? 
 
-# ruta_logo_city_playing_with_rise_heading
-6. Do a variation with the "Rise Up To Action" string being a bit tighter to fall closer to end with the "A" in RUTA.
-
-# ruta_logo_city_caps_c-r-m_t_gradient
-7. Do a variation with the "T" in "RUTA" having the same gradient as the "R", "U", and "A".
-
-# ruta_logo_city_caps_c-r-m_t_gradient_oval
-8. Do a variation with an oval frame defining the edge of the whole logo.
+## ruta_logo_*_grey_saturated & ruta_logo_*-bw
+6. Could you pull grey scale and black and white versions out so people can see what they look like? 
 
