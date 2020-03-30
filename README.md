@@ -1,5 +1,5 @@
 # ruta-logo
-RUTA logo images: updates and outputs
+RUTA logo images: updates and outputs (in the [output](/output)] folder)
 
 1. "Simple" version: A final version with the "Rise Up To Action" text without city nor "connect | resist | mobilize"
 2. "Main" version: A simple version plus the "connect | resist | mobilize" text
