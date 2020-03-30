@@ -1,21 +1,52 @@
 # ruta-logo
 RUTA logo images: updates and outputs
 
-## In All Files
-1. I like the all caps for BAY AREA, to avoid the drop on the lower case y. So let’s just go with that. 
+1. "Simple" version: A final version with the "Rise Up To Action" text without city nor "connect | resist | mobilize"
+2. "Main" version: A simple version plus the "connect | resist | mobilize" text
+3. "City" version: A "main" version plus the "Bay Area" text 
+4. A simple view in greyscale (saturated)
+5. A main view in greyscale (saturated)
+6. A city view in greyscale (saturated)
+7. A simple view in b&w
+8. A main view in in b&w
+9. A city view in b&w
+10. A banner view of the main version with purple background
+11. An rectangular view of the main version with purple background
 
-## In All Files
-2. I like the gradient on the tree, so let’s go with that. 
 
-## ruta_logo_ BAY_AREA_caps_t_gradient_connect_lc
-3. Let’s keep all lower case and Title case on connect | resist | mobilize. I like the lower case better, but want to check with others. 
+## ruta_logo_v2.ai
 
-## ruta_logo_ BAY_AREA_caps_t_gradient_connect_title
-4. So for purposes of review, could you make versions with BAY AREA in caps and the gradient and then the two version of connect, etc? 
+Adobe Illustrator file that can output simple, main, and city versions of the logo.
 
-## ruta_logo_ BAY_AREA_title_t_gradient_connect_title_oval_flat_bottom and ruta_logo_ BAY_AREA_caps_t_gradient_connect_lc_oval_flat_bottom
-5. On the border, thing, the white space below obviously doesn’t work. Could it be a semi-oval or something, with a flat bottom? 
+## ruta_logo_simple*_v2.ai
 
-## ruta_logo_*_grey_saturated & ruta_logo_*-bw
-6. Could you pull grey scale and black and white versions out so people can see what they look like? 
+This logo has no city and no "connect | resist | mobilize" text.
+
+Where * is either:
+
+* nothing (full color)
+* _greyscale (saturated)
+* _bw (black & white)
+
+OR:
+
+* _bg (full color with purple background)
+* _bg_greyscale (saturated with purple background)
+* _bg_bw (black & white with purple background)
+
+
+## ruta_logo_main_*_v2.ai
+
+This logo has no city text.
+
+## ruta_logo_city_*_v2.ai
+
+This logo has city and "connect | resist | mobilize" text.
+
+## ruta_logo_banner_*.ai
+
+Repeated "main" logo, including ruta_logo_banner_1600x350.ai and ruta_logo_banner_907x250.ai
+
+
+
 
